@@ -3,27 +3,27 @@
 <h2 align="center">My stack :man_technologist:</h2>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="reactjs" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="reactjs" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="graphQL" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="graphQL" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongoDB" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySql" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="Golang" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="Golang" height="30">
 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" width="30">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30">
 </p>
 
 <br />
